@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 .csv
 *.parquet
+/.vs/slnx.sqlite
